@@ -3,7 +3,7 @@ import NavBar from "./NavBar";
 import SearchBar from "./SearchBar";
 import Newsfeed from "./Newsfeed";
 
-const key = '6d7c447d4c348dfd9f53c82e60e92919';
+const key = '825914f153f7541f9f9726a72a9a3e1b';
 
 export default function App() {
   const [articles, setArticles] = useState([]);
